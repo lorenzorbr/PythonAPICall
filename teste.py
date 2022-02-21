@@ -1,4 +1,4 @@
-from ctypes import sizeof
+
 import requests
 import json
 
